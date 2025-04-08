@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(156, 137, 137);
+    
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ctr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
